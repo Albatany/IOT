@@ -51,8 +51,8 @@
 #include "dashboard.h"
 
 // ───────────────────────────── WIFI ─────────────────────────────
-const char* WIFI_SSID = "ROBOTICTEAM";
-const char* WIFI_PASS = "Robo1234";
+const char* WIFI_SSID = ""; // tambahin nama wifi yang kalian mau
+const char* WIFI_PASS = ""; // tambahin password wifi yang kalian mau
 const char* AP_SSID   = "PixelIoT-Lab";     // dipakai jika WiFi rumah gagal
 const char* AP_PASS   = "pixel1234";        // minimal 8 karakter
 const char* MDNS_NAME = "pixel";            // -> http://pixel.local/
